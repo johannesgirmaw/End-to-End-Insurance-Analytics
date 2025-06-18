@@ -1,5 +1,3 @@
-I will provide the README for the project setup.
-
 ## Project Setup: Your Guide to Getting Started
 
 This section of the `README.md` details the steps required to set up your local development environment for the AlphaCare Insurance Solutions project. Following these instructions will ensure you have all the necessary tools and dependencies to run the provided analysis scripts and notebooks.
